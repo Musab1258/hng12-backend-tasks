@@ -13,7 +13,7 @@ app.get("/", (req, res) => {
     email: "habeebmusab@gmail.com",
     current_datetime: new Date().toISOString(),
     github_url: "https://github.com/Musab1258/hng12-backend-tasks/tree/stage0"
-  });
+  }); 
 });
 
 // Start the server
