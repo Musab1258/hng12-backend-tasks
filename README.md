@@ -25,3 +25,7 @@ A simple public API developed for HNG12 Stage 0 that returns:
     ```
 
 4. Access the API Visit http://localhost:3000/ to see the JSON response.
+
+## API URL
+
+The api endpoint is publicly available [here](https://hng12-backend-tasks-stage0.onrender.com/)
