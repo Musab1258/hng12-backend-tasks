@@ -40,12 +40,12 @@ This project is a public API developed for the HNG12 Stage 1 Backend task. It ac
 ### Steps
 1. **Clone the Repository:**
     ```bash
-        git clone https://github.com/yourusername/your-repo.git
+        git clone https://github.com/Musab1258/hng12-backend-tasks.git
     ```
 
 2. **Navigate to the Project Directory**:
     ```bash
-        cd your-repo
+        cd 
     ```
 
 3. **Install Dependencies**:
@@ -100,5 +100,5 @@ This project is a public API developed for the HNG12 Stage 1 Backend task. It ac
 The API can be accessed publicly at this endpoint. 
 
     ```perl
-        https://<your-deployed-url>/api/classify-number?number=371
+        https://hng12-backend-tasks-stage1.onrender.com/api/classify-number?number=371
     ```
